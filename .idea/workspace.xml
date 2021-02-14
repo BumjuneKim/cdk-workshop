@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22e34adc-44b4-4d7e-a85f-df53609b4d14" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/cdk-workshop-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cdk-workshop-stack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oSaXseIinUYZUqyZiiXqRDG57x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22e34adc-44b4-4d7e-a85f-df53609b4d14" name="Default Changelist" comment="" />
+      <created>1613282488166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613282488166</updated>
+      <workItem from="1613282489267" duration="3727000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bin/cdk-workshop.d.ts" />
+        <option value="$PROJECT_DIR$/bin/cdk-workshop.js" />
+        <option value="$PROJECT_DIR$/lib/cdk-workshop-stack.d.ts" />
+        <option value="$PROJECT_DIR$/lib/cdk-workshop-stack.js" />
+        <option value="$PROJECT_DIR$/test/cdk-workshop.test.js" />
+        <option value="$PROJECT_DIR$/test/cdk-workshop.test.d.ts" />
+        <option value="$PROJECT_DIR$/lib/hitcounter.js" />
+        <option value="$PROJECT_DIR$/lib/hitcounter.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="296" width="597" height="490" key="find.popup" timestamp="1613287361045">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state x="421" y="296" width="597" height="490" key="find.popup/0.25.1792.1033@0.25.1792.1033" timestamp="1613287361045" />
+    <state x="384" y="254" width="670" height="676" key="search.everywhere.popup" timestamp="1613291434100">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state x="384" y="254" width="670" height="676" key="search.everywhere.popup/0.25.1792.1033@0.25.1792.1033" timestamp="1613291434100" />
+  </component>
+</project>
