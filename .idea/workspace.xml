@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="22e34adc-44b4-4d7e-a85f-df53609b4d14" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/cdk-workshop-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cdk-workshop-stack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/cdk-workshop.test.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -54,11 +73,22 @@
         <option value="$PROJECT_DIR$/bin/cdk-workshop.js" />
         <option value="$PROJECT_DIR$/lib/cdk-workshop-stack.d.ts" />
         <option value="$PROJECT_DIR$/lib/cdk-workshop-stack.js" />
-        <option value="$PROJECT_DIR$/test/cdk-workshop.test.js" />
-        <option value="$PROJECT_DIR$/test/cdk-workshop.test.d.ts" />
         <option value="$PROJECT_DIR$/lib/hitcounter.js" />
         <option value="$PROJECT_DIR$/lib/hitcounter.d.ts" />
+        <option value="$PROJECT_DIR$/test/hitcounter.test.d.ts" />
+        <option value="$PROJECT_DIR$/test/hitcounter.test.js" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
